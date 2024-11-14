@@ -1,2 +1,0 @@
-# staticweb
-Static Web
