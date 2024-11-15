@@ -14,7 +14,7 @@
             "url": "https://revuestarlight.org/welcome/",
             "title": "Welcome! ",
             "summary": "This is a test of static site hosting via GitHub &amp; to make sure my business email led somewhere. I plan to expand and test more in the future, but interested to see possibilities with a simple GUI, githutb/gitlab page, and CloudFlare hosting. If you&hellip;",
-            "content_html": "<p>This is a test of static site hosting via GitHub &amp; to make sure my business email led somewhere. I plan to expand and test more in the future, but interested to see possibilities with a simple GUI, githutb/gitlab page, and CloudFlare hosting.</p>\n<p>If you found this website via professional links, please contact me via the email provided. Trying to keep that one closed off :)</p>\n<p>For technical needs and security reporting, please message <a href=\"mailto:backend@revuestarlight.org\">backend@revuestarlight.org</a></p>\n<p> </p>",
+            "content_html": "<p>This is a test of static site hosting via GitHub &amp; to make sure my business email led somewhere. I plan to expand and test more in the future, but interested to see possibilities with a simple GUI, githutb/gitlab page, and CloudFlare hosting.</p>\n<p>If you found this website via professional links, please contact me via the email provided. Trying to keep that one closed off :)</p>\n<p>For technical needs and security reporting, please message <a href=\"mailto:backend@revuestarlight.org\">backend@revuestarlight.org</a></p>",
             "author": {
                 "name": "jim"
             },
@@ -23,7 +23,7 @@
                    "index"
             ],
             "date_published": "2024-11-13T18:21:48-05:00",
-            "date_modified": "2024-11-13T19:32:37-05:00"
+            "date_modified": "2024-11-15T16:59:13-05:00"
         }
     ]
 }
