@@ -3,7 +3,7 @@
     <title>Revue Starlight</title>
     <link href="https://revuestarlight.org/feed.xml" rel="self" />
     <link href="https://revuestarlight.org" />
-    <updated>2024-11-15T16:59:13-05:00</updated>
+    <updated>2024-12-19T11:36:40-05:00</updated>
     <author>
         <name>jim</name>
     </author>
@@ -28,8 +28,9 @@
         <content type="html">
             <![CDATA[
                 <p>This is a test of static site hosting via GitHub &amp; to make sure my business email led somewhere. I plan to expand and test more in the future, but interested to see possibilities with a simple GUI, githutb/gitlab page, and CloudFlare hosting.</p>
-<p>If you found this website via professional links, please contact me via the email provided. Trying to keep that one closed off :)</p>
-<p>For technical needs and security reporting, please message <a href="mailto:backend@revuestarlight.org">backend@revuestarlight.org</a></p>
+<p><strong>If you are reaching out as a former colleague affected by displacement and hoping to talk about reference, recommendation, or similar needs</strong>, please message <a href="mailto:people.support@revuestarlight.org">people.support@revuestarlight.org</a> . If helps one person, feel like it's worth the effort!</p>
+<p><strong>If you found this website via personal or professional links outside the address above</strong>, please use the specific contact given in that case.</p>
+<p><strong>For questions, technical needs, and security reporting</strong>, please message <a href="mailto:backend@revuestarlight.org">backend@revuestarlight.org</a> . We support privacy and OpenPGP key verification - any email from any associated account with this domain should be verified on <a href="https://keys.openpgp.org/" title="the OpenPGP key directory.">https://keys.openpgp.org/</a></p>
             ]]>
         </content>
     </entry>
