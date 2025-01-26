@@ -3,14 +3,14 @@
     <title>Revue Starlight</title>
     <link href="https://revuestarlight.org/feed.xml" rel="self" />
     <link href="https://revuestarlight.org" />
-    <updated>2025-01-16T06:52:54-05:00</updated>
+    <updated>2025-01-25T22:51:43-05:00</updated>
     <author>
         <name>jim</name>
     </author>
     <id>https://revuestarlight.org</id>
 
     <entry>
-        <title>Revue Starlight Dot Org</title>
+        <title>Revue Starlight (dot org)</title>
         <author>
             <name>jim</name>
         </author>
@@ -22,15 +22,14 @@
         <updated>2024-11-13T18:21:48-05:00</updated>
             <summary>
                 <![CDATA[
-                    This is a test of static site hosting via GitHub &amp; to make sure my business email led somewhere. I plan to expand and test more in the future, but interested to see possibilities with a simple GUI, githutb/gitlab page, and CloudFlare hosting. If you&hellip;
+                    This is a test of static site hosting via GitHub &amp; to make sure my business email led somewhere. I plan to expand and test more in the future, but interested to see possibilities with a simple GUI, githutb/gitlab repo, and Cloudflare workers for hosting.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is a test of static site hosting via GitHub &amp; to make sure my business email led somewhere. I plan to expand and test more in the future, but interested to see possibilities with a simple GUI, githutb/gitlab page, and CloudFlare hosting.</p>
-<p><strong>If you are reaching out as a former colleague affected by displacement and hoping to talk about reference, recommendation, or similar needs</strong>, please message <a href="mailto:people.support@revuestarlight.org">people.support@revuestarlight.org</a> . If helps one person, feel like it's worth the effort!</p>
-<p><strong>If you found this website via personal or professional links outside the address above</strong>, please use the specific contact given in that case.</p>
+                <p>This is a test of static site hosting via GitHub &amp; to make sure my business email led somewhere. I plan to expand and test more in the future, but interested to see possibilities with a simple GUI, githutb/gitlab repo, and Cloudflare workers for hosting.</p>
 <p><strong>For questions, technical needs, and security reporting</strong>, please message <a href="mailto:backend@revuestarlight.org">backend@revuestarlight.org</a> . We support privacy and OpenPGP key verification - any email from any associated account with this domain should be verified on <a href="https://keys.openpgp.org/" title="the OpenPGP key directory.">https://keys.openpgp.org/</a></p>
+<p>For all professional inquiries, please contact me via <a href="mailto:jim@revuestarlight.org">jim@revuestarlight.org</a> .</p>
             ]]>
         </content>
     </entry>
