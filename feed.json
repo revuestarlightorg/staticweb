@@ -14,7 +14,7 @@
             "url": "https://revuestarlight.org/welcome/",
             "title": "Revue Starlight (dot org)",
             "summary": "This is a test of static site hosting via GitHub &amp; to make sure my business email led somewhere. I plan to expand and test more in the future, but interested to see possibilities with a simple GUI, githutb/gitlab repo, and Cloudflare workers for hosting.",
-            "content_html": "<p>This is a test of static site hosting via GitHub &amp; to make sure my business email led somewhere. I plan to expand and test more in the future, but interested to see possibilities with a simple GUI, githutb/gitlab repo, and Cloudflare workers for hosting.</p>\n<p><strong>For questions, technical needs, and security reporting</strong>, please message <a href=\"mailto:backend@revuestarlight.org\">backend@revuestarlight.org</a> . We support privacy and OpenPGP key verification - any email from any associated account with this domain should be verified on <a href=\"https://keys.openpgp.org/\" title=\"the OpenPGP key directory.\">https://keys.openpgp.org/</a></p>\n<p>For all professional inquiries, please contact me via <a href=\"mailto:jim@revuestarlight.org\">jim@revuestarlight.org</a> .</p>",
+            "content_html": "<p>This is a test of static site hosting via GitHub &amp; to make sure my business email led somewhere. I plan to expand and test more in the future, but interested to see possibilities with a simple GUI, githutb/gitlab repo, and Cloudflare workers for hosting.</p>\n<p><strong>For all professional inquiries</strong>, please contact me via <a href=\"mailto:jim@revuestarlight.org\">jim@revuestarlight.org</a> .</p>\n<p><strong>For questions, technical needs, and security reporting</strong>, please message <a href=\"mailto:backend@revuestarlight.org\">backend@revuestarlight.org</a> . Should you receive a PGP key from an email on this site as an attachment, it can be verified on <a href=\"https://keys.openpgp.org/\">https://keys.openpgp.org/</a> to ensure identity and encryption. We also support password encryption if unfamiliar or troublesome to use PGP. </p>\n<p> </p>",
             "author": {
                 "name": "jim"
             },
@@ -23,7 +23,7 @@
                    "index"
             ],
             "date_published": "2024-11-13T18:21:48-05:00",
-            "date_modified": "2025-01-25T22:56:11-05:00"
+            "date_modified": "2025-01-31T15:16:22-05:00"
         }
     ]
 }
